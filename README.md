@@ -44,8 +44,8 @@
 ---
 
 ## ⚒️ Projects You Should Check:
-- **Quiz System for Kids & Adults** (HTML, CSS, JSP, MySQL, Java)
-- **E-commerce Cart with Local Storage** (local Hybeast Club) (JS, DOM Manipulation)
+- **Quiz System for Kids & Adults** (Bootstrap, JSP, MySQL, Java)
+- **E-commerce Cart with Local Storage** (local Hybeast Club) (Html,Css,JS, DOM Manipulation)
 - **Student Grading System** (Tailwind,PHP, MySQL)
 - **Ecommerce** (React + TailwindCSS + Vite)
 
