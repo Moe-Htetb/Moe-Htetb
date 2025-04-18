@@ -8,7 +8,8 @@
 
 ## 🌐 Connect With Me:
 
-[![Facebook]([https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white](https://www.facebook.com/share/1AeBPvTgaz/?mibextid=wwXIfr))](https://facebook.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AeBPvTgaz/?mibextid=wwXIfr)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moehtetb)
 
 
 ---
