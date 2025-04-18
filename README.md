@@ -7,9 +7,9 @@
 ---
 
 ## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
-[![Behance](https://img.shields.io/badge/Behance-%23191919.svg?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/)
+
 
 ---
 
