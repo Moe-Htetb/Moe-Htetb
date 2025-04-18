@@ -8,7 +8,7 @@
 
 ## 🌐 Connect With Me:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
+[![Facebook]([https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white](https://www.facebook.com/share/1AeBPvTgaz/?mibextid=wwXIfr))](https://facebook.com/)
 
 
 ---
@@ -42,29 +42,18 @@
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YourUsername&theme=tokyonight&show_icons=true&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
-
----
-
 ## ⚒️ Projects You Should Check:
 - **Quiz System for Kids & Adults** (HTML, CSS, JSP, MySQL, Java)
-- **E-commerce Cart with Local Storage** (JS, Bootstrap, DOM Manipulation)
-- **Student Result Management System** (PHP, MySQL)
-- **Portfolio Website** (React + TailwindCSS + Vite)
+- **E-commerce Cart with Local Storage** (local Hybeast Club) (JS, DOM Manipulation)
+- **Student Grading System** (Tailwind,PHP, MySQL)
+- **Ecommerce** (React + TailwindCSS + Vite)
 
 ---
 
 ## 📚 Currently Learning:
-- Flutter & React Native
-- CI/CD with GitHub Actions
-- Advanced Backend (JWT, APIs, Security)
+- C#
+- Express & mongo
+- Next js
 
 ---
 
