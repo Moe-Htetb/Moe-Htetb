@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Moe Htetb!</h1>
 
 <p align="center">
-  🚀 Aspiring Full Stack Developer | Code Lover | Lifelong Learner
+  Do something Everyday 
 </p>
 
 ---
