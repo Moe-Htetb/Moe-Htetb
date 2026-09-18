@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Moe Htetb 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer · Technical Instructor</strong>
+  <strong>Full-Stack Developer ·</strong>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://moehtet.vercel.app">Portfolio</a> ·
   <a href="mailto:moehtet.dev@gmail.com">Email</a> ·
-  <a href="https://linkedin.com/in/moehtet">LinkedIn</a>
+  <a href="[https://linkedin.com/in/moehtet](https://www.linkedin.com/in/moe-htet-78101138a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)">LinkedIn</a>
 </p>
 
 ---
